@@ -89,7 +89,6 @@
 <p>Recall, in order to overwrite a tag use the force flag as follows.</p>
 
 ```bash
-$ git tag -fam "i finished assignment 2" a2-handin
 $ git push -f --tags
 ```
 
